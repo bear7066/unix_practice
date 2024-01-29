@@ -1,0 +1,10 @@
+Jennifer: 0
+Blan: 40
+Ryan: 90
+Tim: 10
+Ryan: 70
+Blan: 40
+Blan: 0
+Tim: 80
+Jennifer: 0
+Ryan: 90

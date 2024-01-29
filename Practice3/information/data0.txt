@@ -1,0 +1,10 @@
+Blan: 80
+Henry: 0
+Shrek: 40
+Clan: 70
+Shrek: 30
+Clan: 50
+Clan: 0
+Ryan: 40
+Alan: 70
+Alan: 40

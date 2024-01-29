@@ -1,0 +1,10 @@
+Alan: 30
+Henry: 60
+Clan: 80
+Jennifer: 40
+Jennifer: 90
+Clan: 40
+Shrek: 90
+Jennifer: 80
+Blan: 0
+Ryan: 50

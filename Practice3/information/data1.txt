@@ -1,0 +1,10 @@
+Ryan: 50
+Ryan: 50
+Jennifer: 20
+Blan: 50
+Ryan: 80
+Alan: 0
+Henry: 80
+Shrek: 0
+Shrek: 0
+Ryan: 20

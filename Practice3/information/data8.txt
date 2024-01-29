@@ -1,0 +1,10 @@
+Tim: 80
+Clan: 10
+Tim: 10
+Clan: 70
+Henry: 60
+Tim: 90
+Alan: 0
+Ryan: 10
+Clan: 10
+Jennifer: 90

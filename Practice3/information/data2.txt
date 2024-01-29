@@ -1,0 +1,10 @@
+Clan: 10
+Ryan: 60
+Blan: 40
+Alan: 60
+Tim: 10
+Clan: 80
+Alan: 70
+Clan: 30
+Blan: 70
+Alan: 40
